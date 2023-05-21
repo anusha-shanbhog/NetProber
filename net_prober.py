@@ -46,7 +46,7 @@ def scan_open_ports(host):
 
 def main():
     IP = input("[+] Enter the Host IP Address:\t")
-    print("[+] Starting Ping Sweeper on " + IP)
+    print("[+] Starting NetProber on " + IP)
     dot = IP.rfind(".")
     IP = IP[0:dot + 1]
 
@@ -74,4 +74,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
