@@ -7,7 +7,7 @@
 
 -For all the reachable IP addresses, it displays their MAC addresses and all the open ports on that particular host.
 
-## Steps to run:
+###  Steps to run:
 
 -git clone https://github.com/anusha-shanbhog/NetProber
 
