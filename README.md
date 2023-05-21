@@ -8,10 +8,11 @@
 -For all the reachable IP addresses, it displays their MAC addresses and all the open ports on that particular host.
 
 
-Steps to run:
-git clone https://github.com/anusha-shanbhog/NetProber
+##Steps to run:
 
-cd NetProber
+-git clone https://github.com/anusha-shanbhog/NetProber
 
-python net_prober.py
+-cd NetProber
+
+-python net_prober.py
 
